@@ -1,5 +1,5 @@
 # XiaoBaoNASv1_Firmware
-FirmWare Build By Lollipop907
+Firmware Build By Lollipop907
 <br />The Android and Debian source by rockchip and radxa rockpi open sources project
 <br />Origin sources:
 <br />https://github.com/rockchip-linux/kernel
