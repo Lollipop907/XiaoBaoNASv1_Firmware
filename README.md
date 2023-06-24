@@ -1,4 +1,4 @@
-# XiaoBaoNASv1_Firmware
+# Codinge XiaoBao NAS v1 Firmware
 Firmware Build By Lollipop907
 <br />The Android and Debian source by rockchip and radxa rockpi open sources project
 <br />Origin sources:
